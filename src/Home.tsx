@@ -188,12 +188,7 @@ const Home = (props: HomeProps) => {
         <Container maxWidth="xs" style={{ position: "relative" }}>
           <StyledPaper>
             {" "}
-            <img
-              src={LOGO_LINK}
-              alt=""
-              width="100%"
-              style={{ borderRadius: "5px" }}
-            />
+           <p >Angry Eagles</p>
           </StyledPaper>
           <StyledPaper>
             <div>
