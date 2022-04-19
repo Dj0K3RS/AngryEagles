@@ -188,7 +188,7 @@ const Home = (props: HomeProps) => {
         <Container maxWidth="xs" style={{ position: "relative" }}>
           <StyledPaper>
             {" "}
-           <p >Angry Eagles</p>
+           <p>Angry Eagles Club</p>
           </StyledPaper>
           <StyledPaper>
             <div>
